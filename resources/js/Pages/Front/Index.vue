@@ -2,7 +2,7 @@
 import { Head, Link } from '@inertiajs/vue3';
 import { onMounted, ref } from "vue";
 import { LottieAnimation } from "lottie-web-vue";
-import WatermelonJSON from "/public/img/Robot.json";
+import WatermelonJSON from "/public/img/agus.json";
 
 // Menginisialisasi variabel anim sebagai referensi Vue
 let anim = ref();
