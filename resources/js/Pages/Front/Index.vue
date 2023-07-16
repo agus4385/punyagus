@@ -55,7 +55,7 @@ const props = defineProps({
     <nav class="bg-blue-500">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="/" class="flex items-center">
-                <img src="img/agus.png" class="h-8 mr-3" alt=" Logo" />
+                <img src="Img/agus.png" class="h-8 mr-3" alt=" Logo" />
                 <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Agus Kurniawan</span>
             </a>
             <div class="flex md:order-2">
@@ -187,7 +187,7 @@ const props = defineProps({
         <div class="py-1 px-4 mx-auto max-w-screen-xl grid lg:grid-cols-2 ">
             <div class="flex flex-col justify-center lg:py-6 grid lg:grid-cols-2 ">
                 <div class="flex flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">
-                    <img src="img/Aguss.jpg" class="rounded-xl border-solid border-4 border-white h-80 ml-0.5" alt=" Logo" />
+                    <img src="Img/Aguss.jpg" class="rounded-xl border-solid border-4 border-white h-80 ml-0.5" alt=" Logo" />
                  
                 </div>
                 
@@ -217,13 +217,13 @@ const props = defineProps({
                         <img src="img/htmll.png" class="rounded-xl border-white h-40 ml-0.5" alt=" Logo" />
                     </div>
                     <div class="space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">
-                        <img src="img/css.png" class="rounded-xl border-white h-40 ml-0.5" alt=" Logo" />
+                        <img src="Img/css.png" class="rounded-xl border-white h-40 ml-0.5" alt=" Logo" />
                     </div>
                     <div class="space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">
-                        <img src="img/js.png" class="rounded-xl border-white h-40 ml-0.5" alt=" Logo" />
+                        <img src="Img/js.png" class="rounded-xl border-white h-40 ml-0.5" alt=" Logo" />
                     </div>
                     <div class="space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">
-                        <img src="img/node.png" class="rounded-xl border-white h-40 ml-0.5" alt=" Logo" />
+                        <img src="Img/node.png" class="rounded-xl border-white h-40 ml-0.5" alt=" Logo" />
                     </div>
                         
                 </div>    
@@ -238,22 +238,22 @@ const props = defineProps({
             <div class="flex flex-wrap justify-center">
 
                 <div class="flex flex-col bg-white rounded-lg shadow-md w-full m-6 overflow-hidden sm:w-52">
-                    <img src="img/igg.png" alt="" class="h-30 m-2">
+                    <img src="Img/igg.png" alt="" class="h-30 m-2">
                     <h2 class="text-center px-2 pb-5">Instagram</h2>  
                     <a href="https://instagram.com/ini.agusss" class="bg-blue-500 text-white p-3 text-center hover:bg-blue-800 transition-all duration-500">Swipe</a>
                 </div>
                 <div class="flex flex-col bg-white rounded-lg shadow-md w-full m-6 overflow-hidden sm:w-52">
-                    <img src="img/github.png" alt="" class="h-30 m-2 ">
+                    <img src="Img/github.png" alt="" class="h-30 m-2 ">
                     <h2 class="text-center px-2 pb-5">GitHub</h2>  
                     <a href="https://github.com/agus4385" class="bg-blue-500 text-white p-3 text-center hover:bg-blue-800 transition-all duration-500">Swipe</a>
                 </div>
                 <div class="flex flex-col bg-white rounded-lg shadow-md w-full m-6 overflow-hidden sm:w-52">
-                    <img src="img/gmail.png" alt="" class="h-30 m-2">
+                    <img src="Img/gmail.png" alt="" class="h-30 m-2">
                     <h2 class="text-center px-2 pb-5">Email</h2>  
                     <a href="mailto:namapenggunanyagus@gmail.com" class="bg-blue-500 text-white p-3 text-center hover:bg-blue-800 transition-all duration-500">Swipe</a>
                 </div>
                 <div class="flex flex-col bg-white rounded-lg shadow-md w-full m-6 overflow-hidden sm:w-52">
-                    <img src="img/fb.png" alt="" class="h-30 m-2">
+                    <img src="Img/fb.png" alt="" class="h-30 m-2">
                     <h2 class="text-center px-2 pb-5">Facebook</h2>  
                     <a href="https://www.facebook.com/profile.php?id=100016708999087" class="bg-blue-500 text-white p-3 text-center hover:bg-blue-800 transition-all duration-500">Swipe</a>
                 </div>
@@ -271,7 +271,7 @@ const props = defineProps({
                         <Logo />
                     </div>
                     <div className="text-sm text-gray-600">
-                        <img src="img/agus.png" class="h-40 ml-0.5" alt=" Logo" />
+                        <img src="Img/agus.png" class="h-40 ml-0.5" alt=" Logo" />
                         <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-dark">Agus Kurniawan</span>
                     </div>
                 </div>
